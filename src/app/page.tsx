@@ -11,7 +11,7 @@ export default function Home() {
           </p>
         </blockquote>
         <figcaption>
-          <div className="font-semibold text-lg">Abdullah Mughal</div>
+          <div className="font-semibold text-lg">Shoaib Nawaz</div>
           <div className="font-semibold ">Software Engineer, UOS</div>
         </figcaption>
       </div>
