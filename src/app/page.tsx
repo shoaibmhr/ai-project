@@ -4,8 +4,6 @@ import Image from "next/image";
 export default function Home() {
   return (
     <figure className="rounded-xl p-8 dark:bg-purple-600">
-
-      {/* Profile Image */}
       <Image
         src="/image/image.png"
         alt="Shoaib Nawaz"
